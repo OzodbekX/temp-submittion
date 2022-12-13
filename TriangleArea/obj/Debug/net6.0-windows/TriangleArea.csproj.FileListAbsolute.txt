@@ -1,0 +1,12 @@
+D:\next\temp-submittion\TriangleArea\bin\Debug\net6.0-windows\TriangleArea.deps.json
+D:\next\temp-submittion\TriangleArea\bin\Debug\net6.0-windows\TriangleArea.dll
+D:\next\temp-submittion\TriangleArea\bin\Debug\net6.0-windows\ref\TriangleArea.dll
+D:\next\temp-submittion\TriangleArea\bin\Debug\net6.0-windows\TriangleArea.pdb
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.csproj.AssemblyReference.cache
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.AssemblyInfoInputs.cache
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.AssemblyInfo.cs
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.csproj.CoreCompileInputs.cache
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.dll
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\ref\TriangleArea.dll
+D:\next\temp-submittion\TriangleArea\obj\Debug\net6.0-windows\TriangleArea.pdb
