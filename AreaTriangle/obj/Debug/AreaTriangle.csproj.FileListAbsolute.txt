@@ -1,0 +1,6 @@
+D:\next\mainaaa\AreaTriangle\bin\Debug\AreaTriangle.dll
+D:\next\mainaaa\AreaTriangle\bin\Debug\AreaTriangle.pdb
+D:\next\mainaaa\AreaTriangle\obj\Debug\AreaTriangle.csproj.AssemblyReference.cache
+D:\next\mainaaa\AreaTriangle\obj\Debug\AreaTriangle.csproj.CoreCompileInputs.cache
+D:\next\mainaaa\AreaTriangle\obj\Debug\AreaTriangle.dll
+D:\next\mainaaa\AreaTriangle\obj\Debug\AreaTriangle.pdb
